@@ -1,0 +1,14 @@
+{
+  "ChatPrefix": "{white}[{red}AFK{white}] ",
+  "ChatKickMessage": "{grey}{playerName}{white} wurde wegen {red}AFK{white} {lime}gekickt{white}.",
+  "ChatBombTransfer": "Bombe übertragen → {red}{targetPlayerName}{white}, da {red}{playerName}{white} {red}AFK{white} ist.",
+  "ChatMoveMessage": "{grey}{playerName}{white} wurde wegen {red}AFK{white} nach {lime}SPEC{white} verschoben.",
+  "ChatKillMessage": "{grey}{playerName}{white} wurde wegen {red}AFK{white} {lime}getötet{white}.",
+  "ChatWarningKickMessage": "Du bist {red}inaktiv / AFK{white}. Bewege dich, oder du wirst in {blue}{timeAmount}{white} Sekunden {lime}gekickt{white}.",
+  "ChatWarningMoveMessage": "Du bist {red}inaktiv / AFK{white}. Bewege dich, oder du wirst in {blue}{timeAmount}{white} Sekunden nach {lime}SPEC{white} verschoben.",
+  "ChatWarningKillMessage": "Du bist {red}inaktiv / AFK{white}. Bewege dich, oder du wirst in {blue}{timeAmount}{white} Sekunden {lime}getötet{white}.",
+  "AntiCampSlayMessage": "{grey}{playerName}{white} wurde wegen Campens in Zone {green}@{zoneName}{white} mit der Waffe {lime}{weaponName}{white} {lime}getötet{white}.",
+  "AntiCampSlapMessage": "{grey}{playerName}{white} wurde wegen Campens in Zone {green}@{zoneName}{white} mit der Waffe {lime}{weaponName}{white} mit {red}{slapAmount}{white} Schaden {lime}bestraft{white}.",
+  "AntiCampSlayWarningMessage": "Höre auf, in Zone {green}@{zoneName}{white} mit der Waffe {lime}{weaponName}{white} zu campen, oder du wirst in {blue}{timeAmount}{white} Sekunden {lime}getötet{white}.",
+  "AntiCampSlapWarningMessage": "Höre auf, in Zone {green}@{zoneName}{white} mit der Waffe {lime}{weaponName}{white} zu campen, oder du wirst in {blue}{timeAmount}{white} Sekunden mit {red}{slapAmount}{white} Schaden {lime}bestraft{white}."
+}

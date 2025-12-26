@@ -2,13 +2,24 @@
   "AfkPunishAfterWarnings": 3,
   "AfkPunishment": 1,
   "AfkWarnInterval": 10,
+  "AfkTransferC4AfterWarnings": 1,
+  "AfkTransferC4OnlyFromBuyZone": true,
   "SpecWarnInterval": 20,
   "SpecKickAfterWarnings": 10,
   "SpecKickMinPlayers": 25,
-  "SpecKickOnlyMovedByPlugin": true,
-  "SpecSkipFlag": [],
-  "AfkSkipFlag": [],
-  "AntiCampSkipFlag": [],
+  "SpecKickOnlyMovedByPlugin": false,
+  "SpecSkipFlag": [
+ //   "@css/root",
+ //  "@css/ban"
+  ],
+  "AfkSkipFlag": [
+  //  "@css/root",
+  //  "@css/ban"
+  ],
+  "AntiCampSkipFlag": [
+  //  "@css/root",
+  //  "@css/ban"
+  ],
   "PlaySoundName": "ui/panorama/popup_reveal_01",
   "SkipWarmup": true,
   "AntiCampRadius": 130,

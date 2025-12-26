@@ -1,0 +1,14 @@
+{
+  "ChatPrefix": "{white}[{red}AFK{white}] ",
+  "ChatKickMessage": "{grey}{playerName}{white} został {lime}wyrzucony{white} za {red}AFK{white}.",
+  "ChatBombTransfer": "Bomba przekazana → {red}{targetPlayerName}{white}, ponieważ {red}{playerName}{white} jest {red}AFK{white}.",
+  "ChatMoveMessage": "{grey}{playerName}{white} został {lime}przeniesiony{white} do SPEC za {red}AFK{white}.",
+  "ChatKillMessage": "{grey}{playerName}{white} został {lime}zabity{white} za {red}AFK{white}.",
+  "ChatWarningKickMessage": "Jesteś {red}nieaktywny / AFK{white}. Rusz się, albo zostaniesz {lime}wyrzucony{white} za {blue}{timeAmount}{white} sekund.",
+  "ChatWarningMoveMessage": "Jesteś {red}nieaktywny / AFK{white}. Rusz się, albo zostaniesz {lime}przeniesiony{white} do SPEC za {blue}{timeAmount}{white} sekund.",
+  "ChatWarningKillMessage": "Jesteś {red}nieaktywny / AFK{white}. Rusz się, albo zostaniesz {lime}zabity{white} za {blue}{timeAmount}{white} sekund.",
+  "AntiCampSlayMessage": "{grey}{playerName}{white} został {lime}zabity{white} za kampienie w strefie {green}@{zoneName}{white} z bronią {lime}{weaponName}{white}.",
+  "AntiCampSlapMessage": "{grey}{playerName}{white} został {lime}ukarany{white} obrażeniami {red}{slapAmount}{white} za kampienie w strefie {green}@{zoneName}{white} z bronią {lime}{weaponName}{white}.",
+  "AntiCampSlayWarningMessage": "Przestań kampić w strefie {green}@{zoneName}{white} z bronią {lime}{weaponName}{white}, albo zostaniesz {lime}zabity{white} za {blue}{timeAmount}{white} sekund.",
+  "AntiCampSlapWarningMessage": "Przestań kampić w strefie {green}@{zoneName}{white} z bronią {lime}{weaponName}{white}, albo zostaniesz {lime}ukarany{white} obrażeniami {red}{slapAmount}{white} za {blue}{timeAmount}{white} sekund."
+}

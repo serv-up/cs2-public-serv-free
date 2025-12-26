@@ -1,13 +1,14 @@
 ﻿{
-  "ChatPrefix": "{default}[ {lightblue}AFK {default}] ",
-  "ChatKickMessage": "{grey}{playerName}{default} был {yellow}исключен{default} за бездействие ({yellow}AFK{default}).",
-  "ChatMoveMessage": "{grey}{playerName}{default} был {yellow}перемещен{default} в режим наблюдения из-за бездействия ({yellow}AFK{default}).",
-  "ChatKillMessage": "{grey}{playerName}{default} был {yellow}устранен{default} за продолжительное бездействие ({yellow}AFK{default}).",
-  "ChatWarningKickMessage": "Вы {yellow}бездеятельны{default}. Пожалуйста, двигайтесь, иначе вас {yellow}исключат{default} через {yellow}{timeAmount}{default} секунд.",
-  "ChatWarningMoveMessage": "Вы {yellow}бездеятельны{default}. Пожалуйста, двигайтесь, иначе вас {yellow}переместят{default} в режим наблюдения через {yellow}{timeAmount}{default} секунд.",
-  "ChatWarningKillMessage": "Вы {yellow}бездеятельны{default}. Пожалуйста, двигайтесь, иначе вас {yellow}устранят{default} через {yellow}{timeAmount}{default} секунд.",
-  "AntiCampSlayMessage": "{grey}{playerName}{default} был {yellow}устранен{default} за продолжительный кемпинг в {yellow}@{zoneName}{default}, используя {yellow}{weaponName}{default}.",
-  "AntiCampSlapMessage": "{grey}{playerName}{default} получил {yellow}наказание{default} в виде {red}{slapAmount} урона{default} за кемпинг в {yellow}@{zoneName}{default} с использованием {yellow}{weaponName}{default}.",
-  "AntiCampSlayWarningMessage": "Прекратите кемпинг в {yellow}@{zoneName}{default} с использованием {yellow}{weaponName}{default}, иначе вас {yellow}устранят{default} через {yellow}{timeAmount}{default} секунд.",
-  "AntiCampSlapWarningMessage": "Прекратите кемпинг в {yellow}@{zoneName}{default} с использованием {yellow}{weaponName}{default}, иначе вы получите {yellow}наказание{default} в виде {red}{slapAmount} урона{default} через {yellow}{timeAmount}{default} секунд."
+  "ChatPrefix": "{white}[{red}AFK{white}] ",
+  "ChatKickMessage": "{grey}{playerName}{white} был {lime}кикнут{white} за {red}AFK{white}.",
+  "ChatBombTransfer": "Бомба передана → {red}{targetPlayerName}{white}, потому что {red}{playerName}{white} находится в {red}AFK{white}.",
+  "ChatMoveMessage": "{grey}{playerName}{white} был {lime}перемещён{white} в SPEC за {red}AFK{white}.",
+  "ChatKillMessage": "{grey}{playerName}{white} был {lime}убит{white} за {red}AFK{white}.",
+  "ChatWarningKickMessage": "Вы {red}неактивны / AFK{white}. Двигайтесь, или вы будете {lime}кикнуты{white} через {blue}{timeAmount}{white} секунд.",
+  "ChatWarningMoveMessage": "Вы {red}неактивны / AFK{white}. Двигайтесь, или вы будете {lime}перемещены{white} в SPEC через {blue}{timeAmount}{white} секунд.",
+  "ChatWarningKillMessage": "Вы {red}неактивны / AFK{white}. Двигайтесь, или вы будете {lime}убиты{white} через {blue}{timeAmount}{white} секунд.",
+  "AntiCampSlayMessage": "{grey}{playerName}{white} был {lime}убит{white} за кемпинг в зоне {green}@{zoneName}{white} с оружием {lime}{weaponName}{white}.",
+  "AntiCampSlapMessage": "{grey}{playerName}{white} был {lime}наказан{white} уроном {red}{slapAmount}{white} за кемпинг в зоне {green}@{zoneName}{white} с оружием {lime}{weaponName}{white}.",
+  "AntiCampSlayWarningMessage": "Прекратите кемпинг в зоне {green}@{zoneName}{white} с оружием {lime}{weaponName}{white}, или вы будете {lime}убиты{white} через {blue}{timeAmount}{white} секунд.",
+  "AntiCampSlapWarningMessage": "Прекратите кемпинг в зоне {green}@{zoneName}{white} с оружием {lime}{weaponName}{white}, или вы будете {lime}наказаны{white} уроном {red}{slapAmount}{white} через {blue}{timeAmount}{white} секунд."
 }

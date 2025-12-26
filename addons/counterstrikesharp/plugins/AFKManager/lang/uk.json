@@ -1,0 +1,14 @@
+{
+  "ChatPrefix": "{white}[{red}AFK{white}] ",
+  "ChatKickMessage": "{grey}{playerName}{white} був {lime}кікнутий{white} за {red}AFK{white}.",
+  "ChatBombTransfer": "Бомбу передано → {red}{targetPlayerName}{white}, тому що {red}{playerName}{white} перебуває в {red}AFK{white}.",
+  "ChatMoveMessage": "{grey}{playerName}{white} був {lime}переміщений{white} в SPEC за {red}AFK{white}.",
+  "ChatKillMessage": "{grey}{playerName}{white} був {lime}вбитий{white} за {red}AFK{white}.",
+  "ChatWarningKickMessage": "Ви {red}неактивні / AFK{white}. Рухайтесь, або вас буде {lime}кікнуто{white} через {blue}{timeAmount}{white} секунд.",
+  "ChatWarningMoveMessage": "Ви {red}неактивні / AFK{white}. Рухайтесь, або вас буде {lime}переміщено{white} в SPEC через {blue}{timeAmount}{white} секунд.",
+  "ChatWarningKillMessage": "Ви {red}неактивні / AFK{white}. Рухайтесь, або вас буде {lime}вбито{white} через {blue}{timeAmount}{white} секунд.",
+  "AntiCampSlayMessage": "{grey}{playerName}{white} був {lime}вбитий{white} за кемпінг у зоні {green}@{zoneName}{white} зі зброєю {lime}{weaponName}{white}.",
+  "AntiCampSlapMessage": "{grey}{playerName}{white} був {lime}покараний{white} уроном {red}{slapAmount}{white} за кемпінг у зоні {green}@{zoneName}{white} зі зброєю {lime}{weaponName}{white}.",
+  "AntiCampSlayWarningMessage": "Припиніть кемпінг у зоні {green}@{zoneName}{white} зі зброєю {lime}{weaponName}{white}, або вас буде {lime}вбито{white} через {blue}{timeAmount}{white} секунд.",
+  "AntiCampSlapWarningMessage": "Припиніть кемпінг у зоні {green}@{zoneName}{white} зі зброєю {lime}{weaponName}{white}, або вас буде {lime}покарано{white} уроном {red}{slapAmount}{white} через {blue}{timeAmount}{white} секунд."
+}
